@@ -8,7 +8,7 @@ This will be the normal line with **bold words** and *italic words*
 
 I can add a link to my repo [here](https://github.com/hoatuyet423/cse15l-lab-reports.git)
 
-You can also see an [Image](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
+You can also see an ![Image](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
 
 ## See how block quote work!
 > This will be the block quote
