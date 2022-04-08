@@ -1,5 +1,7 @@
 # Hello, this is the start of my md
 
+# I added some new changes here on VScode in the Header Line 
+
 ## I can make change to the words 
 
 This will be the normal line with **bold words** and *italic words*
