@@ -1,7 +1,8 @@
-Hello! This is Jenny Quach and my PID is A16796954
+# CSE 15L BLOG
+Hello! This is the blog of Jenny Quach for CSE 15L and my PID is A16796954
 
 
-# WEEK 2
+## WEEK 2
 
 [Lab 2 Write Up](https://hoatuyet423.github.io/cse15l-lab-reports/week2-writeup/jennyfile.html)
 
