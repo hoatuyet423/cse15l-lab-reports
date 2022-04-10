@@ -7,5 +7,5 @@ Hello! This is Jenny Quach and my PID is A16796954
 
 [Image Test](https://hoatuyet423.github.io/cse15l-lab-reports/week2-writeup/image-test.html)
 
-[Lab 2 Report](https://hoatuyet423.github.io/cse15l-lab-reports/week2-labreport1/tutorial.html)
+[Week 2 Lab Report 1](https://hoatuyet423.github.io/cse15l-lab-reports/week2-labreport1/tutorial.html)
 
