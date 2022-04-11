@@ -178,5 +178,8 @@ There is some command that you can use such as:
 - `javac OtherMain.java; java WhereAmI` using the `;` will help you run many command line at once
 - You can also use the `up arrow` to go back to the previous command, instead of retyping the command 
 
+Take a look at this example:
+![image](/images/step6-1.png)
+
 ---
 # Thank you!
