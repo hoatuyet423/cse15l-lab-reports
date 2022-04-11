@@ -10,3 +10,5 @@ Hello! This is the blog of Jenny Quach for CSE 15L and my PID is A16796954
 
 [Week 2 Lab Report 1](https://hoatuyet423.github.io/cse15l-lab-reports/week2-labreport1/tutorial.html)
 
+--- 
+Thank You
