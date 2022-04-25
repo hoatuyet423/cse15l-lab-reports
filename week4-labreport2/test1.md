@@ -1,0 +1,1 @@
+[link](rando()m.com)
