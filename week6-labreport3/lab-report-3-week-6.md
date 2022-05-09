@@ -15,7 +15,14 @@ Hi, this is Jenny Quach lab report 3. My PID is A16706054.
 ![image](/images/img2-1.png)
 - My private key at my local computer
 ![image](/images/img2-2.png)
-- 
+- I create a new file in the repo to make some change to the repo, then commit and push it in ieng6
+![image](/images/img2-3.png)
+- Link to the commit on github: [here](https://github.com/hoatuyet423/cse15l-lab-reports/commit/9c78067287d6a340a890fc0fe3a3bcc37cf39869)
 
-
-
+## 3. Copy whole directories with scp -r
+- I named my current markdown-parse as lab5-repo so I will copy that instead. 
+![image](/images/img3-1.png)
+- I am able to run the junit test inside of my ieng6 account
+![image](/images/img3-2.png)
+- I was able to combine everything into one line (copy, log into ssh server then run the junit test)
+![image](/images/img3-3.png)
