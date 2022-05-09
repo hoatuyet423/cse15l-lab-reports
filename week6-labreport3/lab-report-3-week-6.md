@@ -10,5 +10,12 @@ Hi, this is Jenny Quach lab report 3. My PID is A16706054.
 - I added a file name hello.txt into the folder of week6-labreport3 and then copy that file into the ssh server using my alias "ieng6" 
 ![image](/images/img1-3.png)
 
-## 2. 
+## 2. Setup Github Access from ieng6
+- My public key on github
+![image](/images/img2-1.png)
+- My private key at my local computer
+![image](/images/img2-2.png)
+- 
+
+
 
