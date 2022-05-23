@@ -1,6 +1,7 @@
 # CSE 15L BLOG
 Hello! This is the blog of Jenny Quach for CSE 15L and my PID is A16796954
-the web link url: [here](https://hoatuyet423.github.io/cse15l-lab-reports/)
+
+The web link url for this index: [here](https://hoatuyet423.github.io/cse15l-lab-reports/)
 
 
 ## WEEK 2
