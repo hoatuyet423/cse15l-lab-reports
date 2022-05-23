@@ -20,8 +20,15 @@ Hello! This is the blog of Jenny Quach for CSE 15L and my PID is A16796954
 
 [Week 5 + 6 MarkdownParse Repo](https://github.com/hoatuyet423/lab5-repo.git)
 
-[Week 6 Lab Report 2](https://hoatuyet423.github.io/cse15l-lab-reports/week6-labreport3/lab-report-3-week-6.html)
+[Week 6 Lab Report 3](https://hoatuyet423.github.io/cse15l-lab-reports/week6-labreport3/lab-report-3-week-6.html)
 
+## WEEK 8
+
+[My MarkdownParse Repo](https://github.com/hoatuyet423/lab5-repo.git)
+
+[The MarkdownParse Repo My Team Reviewed](https://github.com/Barakar13/markdown-parser.git)
+
+[Week 8 Lab Report 4](https://hoatuyet423.github.io/cse15l-lab-reports/week8-labreport4/week-8-lab-report-4.html)
 
 --- 
 Thank You
