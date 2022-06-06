@@ -22,4 +22,4 @@ This is Jenny Quach Lab Report 4 for week 8. My PID is A16796954.
 - ![out put for my actual output](/images/test2Own.png)
 - ![out put for provided actual output](/images/test2Provided.png)
 - I think my problem is that i dont check the duplicates [] and it mess up the code. In the loop, i should have check if the [] is corresponding to each other or not
-- ![fixed](/images/Screen%20Shot%202022-06-05%20at%2023.57.39.png)
+- ![fixed](/images/test2Fixed.png)
