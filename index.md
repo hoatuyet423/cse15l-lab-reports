@@ -32,5 +32,12 @@ The web link url for this index: [here](https://hoatuyet423.github.io/cse15l-lab
 
 [Week 8 Lab Report 4](https://hoatuyet423.github.io/cse15l-lab-reports/week8-labreport4/week-8-lab-report-4.html)
 
+## WEEK 10
+[Provided Repo](https://github.com/nidhidhamnani/markdown-parser.git)
+
+[My MarkdownParse Repo](https://github.com/hoatuyet423/lab5-repo.git)
+
+[Week 10 Lab Report 5](https://hoatuyet423.github.io/cse15l-lab-reports/week10-labreport5/week10-lab-report-5.html)
+
 --- 
 Thank You
