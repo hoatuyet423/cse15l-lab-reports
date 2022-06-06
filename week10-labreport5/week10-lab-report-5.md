@@ -16,9 +16,10 @@ This is Jenny Quach Lab Report 4 for week 8. My PID is A16796954.
 
 ## TEST 2
 - [test-file-link](/511.md)
-- For this file. the provided implement is correct and my implement is wrong. 
+- For this file. the provided implement is correct and my implement is wrong. becuase this is a url just with many [] inside but it is all corresponding to each other. Therefore it should be `[/uri]` not `[]`
 - expected implement: `[/uri]`
-- - ![out put for my actual output](/images/test2Own.png)
+
+- ![out put for my actual output](/images/test2Own.png)
 - ![out put for provided actual output](/images/test2Provided.png)
 - I think my problem is that i dont check the duplicates [] and it mess up the code. In the loop, i should have check if the [] is corresponding to each other or not
-- - ![fixed](/images/Screen%20Shot%202022-06-05%20at%2023.57.39.png)
+- ![fixed](/images/Screen%20Shot%202022-06-05%20at%2023.57.39.png)
